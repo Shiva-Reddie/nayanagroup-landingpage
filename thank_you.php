@@ -14,7 +14,7 @@
     }
 
     a:hover {
-        color: #fff;
+        color: #ddd;
     }
     </style>
 </head>
