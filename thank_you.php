@@ -22,7 +22,7 @@
 <body>
     <div class="vh-100 d-flex justify-content-center align-items-center">
         <div class="card col-md-8 m-auto bg-white shadow-md p-5">
-            <div class="mb-4 text-center">
+            <div class="mb-4 text-center d-flex justify-content-center">
                 <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75" fill="currentColor"
                     class="bi bi-check-circle" viewBox="0 0 16 16">
                     <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
